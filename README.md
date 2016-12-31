@@ -18,6 +18,7 @@ HCM:
 Topic of Python Saturday:
 
 1. Crawling Basic
-Link: https://github.com/pythonvietnam/pythonsaturday/tree/master/hanoi_31122016
+
+  Document: (https://github.com/pythonvietnam/pythonsaturday/tree/master/hanoi_31122016)
 
   Localtion: Ha Noi
