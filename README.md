@@ -14,3 +14,6 @@ HCM:
 - Email : vuong0303@gmail.com
 - Skype: vuong_113
 - Mobile: 0906030385
+
+Topic of Python Saturday:
+
