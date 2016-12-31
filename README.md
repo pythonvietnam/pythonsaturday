@@ -9,6 +9,7 @@ Ha Noi:
 - Email: khanhnn@pythonvietnam.info
 - Skype: khanhnnvn
 - Mobile: 0918612485
+
 HCM:
 - Email : vuong0303@gmail.com
 - Skype: vuong_113
