@@ -5,8 +5,11 @@ Discover our events and connect with our engineers in Ha Noi and Ho Cho Minh.
 
 Pls contact with admin Python Viet Nam to join event.
 
-Email: khanhnn@pythonvietnam.info
-
-Skype: khanhnnvn
-
-Mobile: 0918612485
+Ha Noi:
+- Email: khanhnn@pythonvietnam.info
+- Skype: khanhnnvn
+- Mobile: 0918612485
+HCM:
+- Email : vuong0303@gmail.com
+- Skype: vuong_113
+- Mobile: 0906030385
